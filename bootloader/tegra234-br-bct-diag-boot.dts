@@ -7,7 +7,7 @@
         SecureDebugControlNoneEcid = <0>;
         u32_non_gpio_select_boot_chain = <0>;
         u32_num_boot_chains = <1>;
-        preprod_dev_sign = <1>;
+        preprod_dev_sign = <0>;
         bf_bl_allbits {
             bf_bl_gpio_select_boot_chain_1b                = <0>;
             bf_bl_mb1_debug_production_1b                  = <0>;
