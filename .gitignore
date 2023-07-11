@@ -11,3 +11,4 @@ bootloader/flash.xml.bin
 bootloader/gpt_primary_1_3.bin
 bootloader/gpt_secondary_1_3.bin
 bootloader/gpt_secondary_3_0.bin
+
